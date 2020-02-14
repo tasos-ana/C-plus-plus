@@ -1,12 +1,5 @@
-Giwrgos Giakoumis 	csd3157
-Tasos Anastasas		csd3166
+# Κατασκευή γλώσσας για JSON (JavaScript Object Notation) 
 
--set assign ena json variable ektos an itan array/object
+Θέμα της εργασίας είναι η κατασκευή μιας γλώσσας ειδικού σκοπού για τον ορισμό και χρήση δεδομένων σε μορφή JSON. Η γλώσσα που θα κατασκευάσετε (περιγράφεται παρακάτω) θα γίνεται compiled ως C++ οπότε θα χρειαστείτε ένα ή περισσότερα header files με κατάλληλους ορισμούς ώστε το πρόγραμμά σας που είναι γραμμένο στη γλώσσα ειδικού σκοπού να αντιστοιχεί σε valid C++ κώδικα και να κάνει compile σωστά. Όπως και στη C++ τα whitespaces αγνοούνται.
 
--ta error apla print ginontai (sto 1o error stamataei)
-
--sto set append, an meta to append proklithei error prepei na piastei apo thn epomenh entoli. 
-    1. An meta einai print kai tupwthei olos o pinakas pou egine to append, to error tha 
-	   tupwthei san ena string mesa ston pinaka.
-
-    2. An meta den exei allh entolh, to error den emfanizetai kai to programma teleiwnei epituxws.
+**[Read More](https://github.com/tasos-ana/C-plus-plus/blob/master/Language%20for%20JSON/Project.pdf)**
